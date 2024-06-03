@@ -14,7 +14,7 @@ If a kid is 8 years old, allow them to sit on a swing. If they are older than 8,
 
 
 
-Hint for Question No 2 :
+
 
 
 

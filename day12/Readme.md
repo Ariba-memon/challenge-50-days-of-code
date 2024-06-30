@@ -1,9 +1,12 @@
 # Day-12 of 50-Days-Of-Code Challenge 😀
- Q1 -by using es6 ternory operator 
+ Q1 - make a cofee shop by using inquirer 
 
 
- Hint:
- https://www.w3schools.com/js/js_es6.asp#mark_array_find
+ hint:
+ functions
+ array
+ object
+>>>>>>> 325cd802a9b205c284740a92ae5fff8af5c357db
 
 
 
